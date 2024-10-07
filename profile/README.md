@@ -5,6 +5,7 @@ Yireo is a Dutch internet company, focusing on training, consultancy and extensi
 The works of [Yireo](https://www.yireo.com/) are spread across the following GitHub organizations:
 
 - [yireo](https://github.com/yireo) - extensions for Magento 2
+- [yireo-frigga](https://github.com/yireo-frigga) - Frigga checkout for Magento 2
 - [yireo-shopware6](https://github.com/yireo-shopware6) - extensions for Shopware 6
 - [yireo-training](https://github.com/yireo-training) - educational projects
 - [yireo-magento1](https://github.com/yireo-magento1) - deprecated extensions for Magento 1
